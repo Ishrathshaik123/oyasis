@@ -1,2 +1,2 @@
-# oyasis
+# Oyasis Internship
 project task
