@@ -1,2 +1,2 @@
-# Oyasis Internship
+# Oasis Infobyte Internship
 project task
